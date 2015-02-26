@@ -9,6 +9,6 @@ setup(
     author='Chris Coe',
     author_email='chrcoe@ieee.org',
     packages=[
-        'DBAPI',
+        'sqlalchemy-helper',
     ],
 )
